@@ -16,3 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 "# simple-app-chat-with-flutter" 
 ![image](https://github.com/Gabriel-Malenowitch/simple-app-chat-with-flutter/assets/56513919/a622810f-3652-4fcf-a91a-becad4318130)
+![image](https://github.com/Gabriel-Malenowitch/simple-app-chat-with-flutter/assets/56513919/6774b574-0259-493e-9483-648078e704f8)
